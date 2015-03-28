@@ -1,0 +1,29 @@
+{
+  "name": "foodme",
+  "version": "0.0.1",
+  "homepage": "https://github.com/teerytko/foodme",
+  "authors": [
+    "tsrytkon <teemu.rytkonen@gmail.com>"
+  ],
+  "description": "Local food online store",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "food",
+    "local"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}

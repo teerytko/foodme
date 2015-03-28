@@ -61,3 +61,7 @@ site-dir
 
 # db files
 *.sqlite3
+
+# Static files
+static/
+public/
