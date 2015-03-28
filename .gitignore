@@ -64,4 +64,5 @@ site-dir
 
 # Static files
 static/
-public/
+public/vendor
+public/js

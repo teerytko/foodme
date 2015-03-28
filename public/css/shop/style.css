@@ -1,0 +1,11 @@
+#loginform {
+  display: none;
+}
+
+body { 
+  padding-top: 70px;
+}
+
+#maincontent {
+  min-height: 600px;
+}
