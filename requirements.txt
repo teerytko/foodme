@@ -1,1 +1,5 @@
-Django==1.8c1
+Django==1.7.7
+python-social-auth
+django-bootstrap3
+psycopg2
+django-oscar
